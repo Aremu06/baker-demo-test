@@ -1,0 +1,13 @@
+{
+  "firstName": "Automation",
+  "lastName": "Tester",
+  "address": "Lobeckstrasse 30",
+  "city": "Berlin",
+  "state": "Berlin",
+  "zipCode": "12687",
+  "phone": "",
+  "sSN": "12356789",
+  "userName": "Test",
+  "password": "Test",
+  "confirm": "Test"
+}

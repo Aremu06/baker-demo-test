@@ -1,0 +1,20 @@
+{
+  "name": "bakersoftautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open --browser chrome --e2e",
+    "cypress:runDefault": "cypress run --spec cypress/integration/pom/*.spec.js",
+    "cypress:chrome": "cypress run --browser chrome --spec cypress/integration/pom/*.spec.js",
+    "cypress:edge": "cypress run --browser edge --spec cypress/integration/*.spec.js",
+    "cypress:runChromeHeadless": "cypress run --headless --browser chrome --spec cypress/integration/*.spec.js --record --key 4bc50df7-5eee-4147-8eb3-ccea611c8d4b"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
