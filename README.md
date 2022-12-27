@@ -2,7 +2,7 @@
 
 ## Installation
 - Clone this repository
-- Install docker
+- Install docker and get the service running
 - Run npm install --save-dev cypress
 
 ## Run tests
