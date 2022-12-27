@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab2d999-a135-4de8-9647-af88149dbeaa" name="Changes" comment="" />
+    <list default="true" id="0ab2d999-a135-4de8-9647-af88149dbeaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/videos/accountCreationFailureTest.js.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/videos/accountCreationFailureTest.js.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/videos/accountCreationSuccssTest.js.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/videos/accountCreationSuccssTest.js.mp4" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
